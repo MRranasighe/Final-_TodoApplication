@@ -113,7 +113,7 @@
         android:layout_marginBottom="20dp"
         android:backgroundTint="@color/Wim_green"
         android:text="Sign-Up"
-        android:textSize="28sp"
+        android:textSize="29sp"
         app:layout_constraintBottom_toTopOf="@+id/textView1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.454"
